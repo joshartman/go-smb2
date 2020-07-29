@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/hirochachacha/go-smb2"
+	"github.com/joshartman/go-smb2"
 
 	"testing"
 )
