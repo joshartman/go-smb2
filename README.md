@@ -18,3 +18,6 @@ Documentation
 -------------
 
 http://godoc.org/github.com/joshartman/go-smb2
+
+I have cloned this repo as I was to make sure bugs get fixed.
+Cloned from github.com/hirochachacha/go-smb2 
